@@ -39,4 +39,6 @@ Si la secuencia introducida es incorrecta, el Monitor Serial muestra la secuenci
 Puedes probar y ver el circuito en acción en Tinkercad:
 [https://www.tinkercad.com/embed/lwc8VqB2iYI?editbtn=1](https://www.tinkercad.com/embed/lwc8VqB2iYI?editbtn=1)
 
+### Montaje
+
 ![texto alternativo](Documentacion/MontajeFisico-FabulosoFred.jpg)
