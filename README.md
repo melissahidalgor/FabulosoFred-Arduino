@@ -25,12 +25,6 @@ Se utilizan los pines 2 a 6 como salidas para los LEDs y los pines 7 a 11 como e
 
 Si la secuencia introducida es incorrecta, el Monitor Serial muestra la secuencia mostrada por el juego y la secuencia introducida por el usuario
 
-## 🖼️ Montaje y Simulación
-
-### Simulación Online
-Puedes probar y ver el circuito en acción en Tinkercad:
-[https://www.tinkercad.com/embed/lwc8VqB2iYI?editbtn=1](https://www.tinkercad.com/embed/lwc8VqB2iYI?editbtn=1)
-
 ## 🚀 Instrucciones de Uso
 
 1.  Compilar y cargar el código en el Arduino.
@@ -38,3 +32,11 @@ Puedes probar y ver el circuito en acción en Tinkercad:
 3.  Introducir la dificultad (`1` o `2`) en el Monitor Serial.
 4.  Presionar los botones en el orden de la secuencia mostrada por los LEDs.
 5.  Para reiniciar el juego, presionar el botón de reinicio del Arduino.
+
+## 🖼️ Montaje y Simulación
+
+### Simulación Online
+Puedes probar y ver el circuito en acción en Tinkercad:
+[https://www.tinkercad.com/embed/lwc8VqB2iYI?editbtn=1](https://www.tinkercad.com/embed/lwc8VqB2iYI?editbtn=1)
+
+![texto alternativo](Documentacion/MontajeFisico-FabulosoFred.jpg)
