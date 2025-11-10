@@ -15,7 +15,7 @@ Este proyecto es una implementación del clásico juego de secuencias "Simon Dic
 **Configuración de Pines Clave:**
 Se utilizan los pines 2 a 6 como salidas para los LEDs y los pines 7 a 11 como entradas (`INPUT_PULLUP`) para los botones. 
 
-##  Funcionalidades Destacadas del Código
+## ⚙️ Funcionalidades Destacadas del Código
 
 * **Selección de Dificultad:** El juego tiene dos modos de dificultad seleccionables a través del Monitor Seria:
 
